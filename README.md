@@ -17,22 +17,6 @@ Hệ thống cho phép lưu trữ, truy xuất và xác thực thông tin bệnh
 - **Blockchain Library**: ethers.js
 
 ---
-## ⚙️ Cài đặt dự án
-
-📌 Frontend
-```bash
-cd frontend
-npm install
-npm start
-📌 Backend
-cd backend
-npm install
-npm run dev
-📌 Blockchain
-cd blockchain
-npm install
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network sepolia
 License
 MIT License
 
